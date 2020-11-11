@@ -1,0 +1,16 @@
+Maze_1_A_star_output.txt:length=4134
+Maze_1_BFS_output.txt:length=4134
+Maze_1_GBFS_output.txt:length=4134
+Maze_1_IDS_output.txt:length=4134
+Maze_2_A_star_output.txt:length=640
+Maze_2_BFS_output.txt:length=640
+Maze_2_GBFS_output.txt:length=640
+Maze_2_IDS_output.txt:length=642
+Maze_3_A_star_output.txt:length=574
+Maze_3_BFS_output.txt:length=574
+Maze_3_GBFS_output.txt:length=574
+Maze_3_IDS_output.txt:length=574
+Maze_4_A_star_output.txt:length=2838
+Maze_4_BFS_output.txt:length=2838
+Maze_4_GBFS_output.txt:length=2838
+Maze_4_IDS_output.txt:length=2838

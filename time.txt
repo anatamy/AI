@@ -1,0 +1,16 @@
+Maze_1_A_star_output.txt:time=13306
+Maze_1_BFS_output.txt:time=9107
+Maze_1_GBFS_output.txt:time=13306
+Maze_1_IDS_output.txt:time=10737705
+Maze_2_A_star_output.txt:time=1151
+Maze_2_BFS_output.txt:time=2369
+Maze_2_GBFS_output.txt:time=1151
+Maze_2_IDS_output.txt:time=190964
+Maze_3_A_star_output.txt:time=821
+Maze_3_BFS_output.txt:time=2028
+Maze_3_GBFS_output.txt:time=821
+Maze_3_IDS_output.txt:time=97872
+Maze_4_A_star_output.txt:time=6481
+Maze_4_BFS_output.txt:time=11935
+Maze_4_GBFS_output.txt:time=6481
+Maze_4_IDS_output.txt:time=4538905
